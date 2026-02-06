@@ -1,0 +1,4 @@
+Para esta práctica es necesario descargarse el dataset´según se explica en about_dataset.md. 
+En mi caso, he descragado los dos archivos csv, y los he añadido a mi drive, a la misma carpeta donde he hecho la práctica.
+
+Por tanto, para ejecutar el notebook es necesario abrir collab (para tener GPU) y añadir también en drive los ficheros, para desde collab se puedan leer
